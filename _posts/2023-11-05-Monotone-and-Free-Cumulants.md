@@ -7,6 +7,8 @@ tags:
   -Free Cumulants
 ---
 
+### Monotone and Free Cumulants
+
 In this post, we will continue our discussion of moments and cumulants and begin to explore the interactions that arise between random variables by considering non-crossing and monotone partitions. Recall that the relationship between moments (denoted $m_n$, which corresponded to the total number of graphs on a vertex set $[n]$ and cumulants, (denoted $c_n$, which corresponded to the total number of connected graphs on a vertex set $[n]$) was: 
 
 $$m_n(X_1,...,X_n) = \sum_{\pi \in p(n)} \prod_{B \in \pi} c_{|B|}(X_i : i \in B)$$
