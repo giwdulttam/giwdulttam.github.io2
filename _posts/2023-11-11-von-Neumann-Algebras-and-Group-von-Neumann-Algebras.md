@@ -1,7 +1,7 @@
 ---
 title: 'von Neumann Algebras and Group von Neumann Algebas'
 date: 
-permalink: /posts/2023/12/von-Neumann-Algebras-and-Group-von-Neumann-Algebas/
+permalink: /posts/2023/11/von-Neumann-Algebras-and-Group-von-Neumann-Algebas/
 tags:
   -von Neumann Algebras
   -Group von Neumann Algebras
