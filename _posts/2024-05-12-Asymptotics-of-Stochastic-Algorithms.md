@@ -8,6 +8,9 @@ tags:
   -Stochastic Gradient Descent
 ---
 
+
+### Asymptotics of Stochastic Algorithms
+
 Stochastic gradient algorithms are widely used for large scale optimization and sampling especially when the computational cost of traditional deterministic methods is high. However, the main problem with stochastic gradient algorithms is that tuning them is often based on heuristics and trial and error. In order to better understand how these algorithms work and to characterize their large-scale asympototic behavior, recent work by Huggins, Negrea, et al. "Tuning Stochastic Gradient Algorithms for Statistical Inference via Large-Sample Asymptotics" showed that the sample paths of a very general class of preconditioned stochastic gradient algorithms converge to the sample paths of an Ornstein-Uhlenbeck process under relatively mild conditions.
 
 First consider a stochastic gradient meta-algorithm that subsumes both stochastic gradient descent as well as stochastic gradient Langevin dynamics. The algorithm has the following one-step update:
