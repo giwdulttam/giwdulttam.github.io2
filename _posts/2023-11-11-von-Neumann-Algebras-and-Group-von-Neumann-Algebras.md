@@ -1,6 +1,6 @@
 ---
 title: 'von Neumann Algebras and Group von Neumann Algebas'
-date: 
+date: 2023-11-05
 permalink: /posts/2023/11/von-Neumann-Algebras-and-Group-von-Neumann-Algebas/
 tags:
   -von Neumann Algebras
