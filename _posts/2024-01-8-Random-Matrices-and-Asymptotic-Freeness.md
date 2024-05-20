@@ -1,13 +1,4 @@
 
----
-title: 'Random Matrices and Asymptotic Freeness'
-date: 2024-01-8
-permalink: /posts/2024/01/Random-Matrices-and-Asymptotic-Freeness/
-tags:
-  -Random Matrices
-  -Free Probability
----
-
 
 ### Random Matrices and Asymptotic Freeness
 
