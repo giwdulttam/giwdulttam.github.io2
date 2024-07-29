@@ -20,14 +20,9 @@ Work experience
 ======
 * Summer 2024: Data Scientist 
   * Kemper Insurance
-  * Duties includes: Implementing machine learning models to categorize phone calls and to determine optimal location to open stores. 
-  * Supervisor: 
-
-* Summer 2024: Research Assistant 
-  * Boston University
-  * Duties included: Researched the asymptotic properties of stochastic gradient algorithms
-  * Supervisor: Professor Jonathan Huggins
-
+  * Duties includes:
+  * Analyzed US census data, implemented several machine learning models for variable selection, constructed various GLMs to predict claim frequency and severity from important census variables, used unsupervised clustering methods to derive new geographic territories for pricing
+  * Supervisor: Gang Xu
 
   
 Skills
@@ -42,6 +37,8 @@ Skills
   * Scikit-learn
   * Pandas
   * Numpy
+  * H20.ai
+  * SageMaker
     
 * Java
 
