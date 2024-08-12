@@ -18,12 +18,11 @@ Education
 
 Work experience
 ======
-* Summer 2024: Data Scientist 
-  * Kemper Insurance
-  * Duties includes:
-  * Analyzed US census data, implemented several machine learning models for variable selection, constructed various GLMs to predict claim frequency and severity from important census variables, used unsupervised clustering methods to derive new geographic territories for pricing
-  * Supervisor: Gang Xu
-
+* Summer 2024: Data Scientist at Kemper Insurance
+  * Analyzed US census data
+  * Implemented several machine learning models for variable selection
+  * Constructed various GLMs to predict claim frequency and severity from important census variables
+  * Used unsupervised clustering methods to derive new geographic territories for pricing
   
 Skills
 ======
