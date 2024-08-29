@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Boston University, 2027 (expected)
+* Ph.D in Statistics, Boston University, 2024 - present
 * MA in Statistics, Boston University, 2024
 * MA in Music Theory, McGill University, 2023
 * BA in Mathematics and Music, Haverford College, 2021
