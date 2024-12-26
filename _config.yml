@@ -21,10 +21,10 @@ repository               : "giwdulttam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "assets/profile.png"
   name             : "Matt Ludwig"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Statistics at Boston University"
+  bio              : "PhD Student at Boston University"
   location         : "Boston, MA"
   employer         : "Boston University"
   uri              : # URL
