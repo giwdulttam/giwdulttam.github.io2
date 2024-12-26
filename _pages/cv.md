@@ -18,7 +18,11 @@ Education
 
 Work experience
 ======
-* Summer 2024: Data Scientist at Kemper Insurance
+* Summer 2025: Quantitative Analyst Intern at Chatham Financial
+  * Interest rate swaps
+  * Derivative pricing 
+
+* Summer 2024: Data Scientist Intern at Kemper Insurance
   * Analyzed US census data
   * Implemented several machine learning models for variable selection
   * Constructed various GLMs to predict claim frequency and severity from important census variables
